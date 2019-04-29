@@ -148,7 +148,6 @@
 			isa = PBXGroup;
 			children = (
 				85DE06FC224F51B200B603E7 /* NoteAutoLayout.swift */,
-				85DE06F2224F4E4800B603E7 /* NoteViewController.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -193,8 +192,9 @@
 				D1BE51C82261DEBD0096890D /* Container */,
 				D1D71E032251186E00944E45 /* Menu */,
 				18A718DA224FE44F007E9CF3 /* Notes */,
-				85DE06F0224F4DE000B603E7 /* Note */,
+				85DE06F2224F4E4800B603E7 /* NoteViewController.swift */,
 				D1ED80B7226A11A400DB4669 /* Photo */,
+				85DE06F0224F4DE000B603E7 /* Note */,
 				D12C5EAF22567EA200B463C7 /* Entities */,
 				D133BB67222648900067B07D /* Services */,
 				D133BB682226492A0067B07D /* Resources */,
